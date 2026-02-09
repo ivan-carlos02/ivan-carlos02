@@ -1,6 +1,6 @@
 # **Ivan Carlos Tambunan - Data Analyst / Data Science**
 
-👋 **Hello and welcome!**
+👋 **Hello and Welcome!**
 
 I'm Ivan Carlos Tambunan, Data Analyst and Data Scientist, eager to transform data into meaningful insight. Using the extensive bootcamp programm focused in Data, confidence in exploring and applying my skills in data-driven industry. Current activity on broading horizon and exploring more Data World to deepen my knowledge and skill to improve my business insight and machine learning skills.
 
@@ -71,7 +71,7 @@ Bachelor Degree on Information Technology
 ### 📫 **Connect with Me**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ivancarlostambunan)
-- **Email:** ivantambunan02@gmail.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivantambunan02@gmail.com) - ivantambunan02@gmail.com
 
 ---
 <!--
