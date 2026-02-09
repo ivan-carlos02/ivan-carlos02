@@ -2,7 +2,7 @@
 
 👋 **Hello and welcome!**
 
-I'm Ivan Carlos Tambunan, Data Analyst and Data Scientist, eager to transform data into meaningful insight. Using the extensive bootcamp programm focused in Data, confidence in exploring and applying my skills in data-driven industry. Current activity on broading horizon and exploring more Data World to deepen my knowledge and skill to make business insight and machine learning.
+I'm Ivan Carlos Tambunan, Data Analyst and Data Scientist, eager to transform data into meaningful insight. Using the extensive bootcamp programm focused in Data, confidence in exploring and applying my skills in data-driven industry. Current activity on broading horizon and exploring more Data World to deepen my knowledge and skill to improve my business insight and machine learning skills.
 
 ---
 
@@ -47,16 +47,6 @@ I'm Ivan Carlos Tambunan, Data Analyst and Data Scientist, eager to transform da
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
----
-
-### 🛠 **Skills**
-
-- **Languages**: Python, Sql  
-- **Data Analysis & Visualization**: Tableau, Pandas(Seaborn & Plotly), Kibana  
-- **Database Management**: PostgreSQL, MongoDB
-- **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision  
-- **Other Skills**: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines, Apache Airflow
 
 ---
 
