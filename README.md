@@ -55,7 +55,7 @@ I'm Ivan Carlos Tambunan, Data Analyst and Data Scientist, eager to transform da
 - **Hacktiv8 Full Time Data Scientist**<br>
 Studied Data Engineering (data collection, cleaning, SQL, NoSQL), Machine Learning & Artificial Neural Network(feature engineering, model evaluation, and deployment), and Big Data Analytics(exploratory data analysis, insight extraction, interactive dashboards)
 
-- **Institute of Technology Sinar Husni**<br>
+- **Sinar Husni Institute of Technology**<br>
 Bachelor Degree on Information Technology
 
 ---
